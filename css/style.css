@@ -19,7 +19,7 @@
 
 a {
     text-decoration: none;
-    color: var(--Dark-blue);
+    
 }
 
 body {
@@ -30,6 +30,8 @@ body {
 img {
     display: block;
 }
+
+/* || MAIN STYLES || */
 
 .container {
     width: 1140px;
@@ -53,7 +55,7 @@ img {
 
     border-radius: 20px;
     margin-inline: auto;
-    margin-top: 100px;
+    margin-top: 120px;
     padding: 18px;
     box-shadow: 0px 25px 25px 0 rgba(0, 0, 0, 0.047);
 }
@@ -69,7 +71,6 @@ img {
     height: 290px;
     border-radius: 10px;
     overflow: hidden;
-    background-color: #2C7DFA;
 }
 
 .card-content {
