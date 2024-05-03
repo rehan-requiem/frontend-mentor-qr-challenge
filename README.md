@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Submitted Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-code-challenge-using-css-and-html-rfCf52MuhA))
+- Solution URL: [Submitted Solution](https://www.frontendmentor.io/solutions/qr-code-challenge-using-css-and-html-rfCf52MuhA)
 - Live Site URL: [Vercel Link](https://qr-challange-gules.vercel.app/)
 
 ### Built with
